@@ -23,7 +23,16 @@ x install kolosal-cli
 - **Latest**: `v0.1.3` (2025-10-16)
 - **Last commit**: 2025-12-24
 - **Assets in release**: 5
-- **Published**: 2025-10-16T13:57:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [kolosal-code-0.1.3-1.x86_64.rpm](https://github.com/KolosalAI/kolosal-cli/releases/download/v0.1.3/kolosal-code-0.1.3-1.x86_64.rpm) | 77.8 MiB | `runtime/rpm/x86_64` |
+| [kolosal-code-0.1.3-linux-x64.tar.gz](https://github.com/KolosalAI/kolosal-cli/releases/download/v0.1.3/kolosal-code-0.1.3-linux-x64.tar.gz) | 79.1 MiB | `native/unknown` |
+| [kolosal-code_0.1.3_amd64.deb](https://github.com/KolosalAI/kolosal-cli/releases/download/v0.1.3/kolosal-code_0.1.3_amd64.deb) | 53.5 MiB | `runtime/deb/amd64` |
+| [KolosalCode-0.1.3-Setup.exe](https://github.com/KolosalAI/kolosal-cli/releases/download/v0.1.3/KolosalCode-0.1.3-Setup.exe) | 182.7 MiB | `other` |
+| [KolosalCode-0.1.3-win-x64.zip](https://github.com/KolosalAI/kolosal-cli/releases/download/v0.1.3/KolosalCode-0.1.3-win-x64.zip) | 105.6 MiB | `other` |
 
 ## Popularity
 
@@ -58,8 +67,8 @@ Total: **187,425** lines of code across **819** files in the top 5 languages.
 Install metadata for kolosal-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kolosal-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kolosal-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kolosal-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:37:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:06:53Z._
