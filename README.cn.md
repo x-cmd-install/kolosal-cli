@@ -4,7 +4,7 @@
 
 Super lightweight Ollama + Qwen Code alternative to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
-[![x-cmd/install — kolosal-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kolosal-cli.svg?lang=zh)](https://x-cmd.com/install/kolosal-cli)
+[![x-cmd/install — kolosal-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kolosal-cli.svg?lang=zh)](https://x-cmd.com/install/kolosal-cli)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install kolosal-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 4 | 11 | 2 | 0 | 8 | 57 |
-| last720d | 2024-10-02 | 5 | 11 | 3 | 0 | 10 | 249 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 4 | 11 | 2 | 0 | 8 | 57 |
+| last720d | 2024-10-03 | 5 | 11 | 3 | 0 | 10 | 249 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ kolosal-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:00:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:54:24Z._
